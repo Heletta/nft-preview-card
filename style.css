@@ -16,6 +16,19 @@ body {
   background: hsl(216, 50%, 16%);
   color: hsl(0, 0%, 100%);
 }
+.preview {
+  padding: 20px;
+}
+.nft {
+  width: 300px;
+  padding: 15px;
+  border: 1px solid transparent;
+  border-radius: 8%;
+}
+.profile {
+  padding-left: 20px;
+  width: 50px;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
